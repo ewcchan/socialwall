@@ -1,0 +1,22 @@
+.vertical-center {
+  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 100vh; /* These two lines are counted as one :-)       */
+
+  display: flex;
+  align-items: center;
+}
+.social__slides {
+	max-width: 100%;
+}
+.juicer-feed .j-twitter {
+	background: white;
+}
+.j-content-image {
+	width: 1000px;
+    margin: 0 auto;
+    display: block;
+}
+.feed-item {
+	width: 1000px;
+    margin: 0 auto;
+}
